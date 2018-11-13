@@ -1,7 +1,7 @@
 # Project Euler with JS
 
-To run 
+To run these solutions, use the command below
 
 ```bash
-time node 001.js
+time node (solution_name).js
 ```

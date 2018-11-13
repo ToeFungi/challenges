@@ -1,7 +1,7 @@
 # CoderByte with JS
 
-To run 
+To run these solutions, use the command below
 
 ```bash
-time node (challenge_name).js
+time node (solution_name).js
 ```

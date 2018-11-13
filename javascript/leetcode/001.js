@@ -23,8 +23,11 @@
 				parseInt(index), 
 				parseInt(diffIndex)
 			]);
-			
-			return [index, diffIndex];
+
+			return [
+				parseInt(index), 
+				parseInt(diffIndex)
+			];
 		}
 	}
 

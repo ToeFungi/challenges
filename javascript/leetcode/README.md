@@ -1,7 +1,7 @@
-# leetCode with JS
+# LeetCode with JS
 
-to run
+To run these solutions, use the command below
 
 ```bash
-time node (challenge_name).js
+time node (solution_name).js
 ```
