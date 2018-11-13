@@ -3,5 +3,5 @@
 To run 
 
 ```bash
-node 001.js
+time node 001.js
 ```
