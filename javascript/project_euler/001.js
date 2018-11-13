@@ -16,3 +16,13 @@
 	console.log(sum);
 	return sum;
 } (1000) );
+
+/*
+* time node 001.js
+*
+* 233168
+*
+* real	 0m0.085s
+* user	 0m0.077s
+* sys	 0m0.008s
+*/
