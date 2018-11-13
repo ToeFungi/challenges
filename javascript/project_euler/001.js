@@ -5,7 +5,7 @@
 * Find the sum of all the multiples of 3 or 5 below 1000.
 */
 
-(function(limit) {
+(limit => {
 	let sum = 0;
 
 	for (let x = 0; x < limit; x++) {
@@ -15,7 +15,7 @@
 
 	console.log(sum);
 	return sum;
-} (1000) );
+}) (1000);
 
 /*
 * time node 001.js
