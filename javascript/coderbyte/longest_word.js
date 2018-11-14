@@ -21,7 +21,7 @@
 }) ("I love dogs and aeroplanes");
 
 /*
-* time node 003.js
+* time node longest_word.js
 * 
 * aeroplanes
 *
