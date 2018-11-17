@@ -17,8 +17,7 @@
 * @return int - the difference between the sum squared and squared sum
 */
 ((limit) => {
-	let x = 0;
-	let y = 0;
+	let x = 0, y = 0;
 	
 	for (let i = 1; i < limit + 1; i++) {
 		x += i * i;
