@@ -1,0 +1,5 @@
+--require babel-register
+--require ./test/support/setup.spec.js
+--recursive test/**/*.spec.js
+--check-leaks
+--timeout 5000
