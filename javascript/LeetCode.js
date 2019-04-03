@@ -29,7 +29,7 @@ class LeetCode {
       if (numbers.includes(diff)) {
         let diffIndex = numbers.indexOf(diff);
 
-        return [ parseInt(index, 10), parseInt(diffIndex, 10) ];
+        return [ parseInt(index, 10), diffIndex ];
       }
     }
 
