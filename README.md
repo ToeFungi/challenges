@@ -27,4 +27,4 @@ In time there will be more challenge sites being added here.
 # Stats
 I include a basic time to execution in each solution file as a basic bench
 mark. This is probably dependent on my system and you probably shouldn't 
-take these stats too seriously ;)
+take these stats too seriously. ;)
